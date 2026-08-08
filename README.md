@@ -93,14 +93,6 @@ We evaluated each model on the standardized glaucoma datasets (using ACRIMA as o
 
 A demonstration video file named `demo.mp4` is included in this repository. The video shows the models being tested on sample (random) patients’ fundus images, illustrating the classification process and output in real time.
 
----
-
-## Team
-- Rishi Kalasariya
-- Pradeep
-- Anand Prakash Singh
-- Ahbar Siddiqui
-- Priyanshu Srivastav
 
 ## Acknowledgements
 
