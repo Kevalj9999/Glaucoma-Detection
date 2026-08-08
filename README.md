@@ -92,8 +92,3 @@ We evaluated each model on the standardized glaucoma datasets (using ACRIMA as o
 ## Demo Video
 
 A demonstration video file named `demo.mp4` is included in this repository. The video shows the models being tested on sample (random) patients’ fundus images, illustrating the classification process and output in real time.
-
-
-## Acknowledgements
-
-We thank Dr. Debanga R. Neog for supervising this project and providing guidance on glaucoma imaging and machine learning techniques. We also acknowledge the Department of Computer Science and Engineering at IIT Guwahati for their support and computational resources.
